@@ -4,7 +4,7 @@ set -e
 
 cd "$(dirname "$0")"
 
-APPLICATION_NAME=WkWebViewApp
+APPLICATION_NAME=WkWebViewLocal
 
 echo "[*] $APPLICATION_NAME Build Script"
 
