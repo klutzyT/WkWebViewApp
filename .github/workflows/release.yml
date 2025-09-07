@@ -15,7 +15,7 @@ jobs:
         
       - name: Build IPA
         run: |
-          make debug
+          make release
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4.6.0
